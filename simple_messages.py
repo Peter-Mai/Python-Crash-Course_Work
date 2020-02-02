@@ -1,4 +1,4 @@
-#2.1 Simple Message
+#2.2 Simple Message
 
 message = "Hello!"
 print(message)
