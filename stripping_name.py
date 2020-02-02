@@ -1,3 +1,6 @@
+#2.7 Stripping Name 
+
+
 name = "  Peter   "
 print(name)
 print(f"\n{name}")
